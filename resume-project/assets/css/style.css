@@ -374,3 +374,7 @@ button[type="submit"] {
     max-width: 50%;
 }
 }
+
+/*---------------------Google Map */
+
+div#map {min-height: 360px;}
